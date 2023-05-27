@@ -1,0 +1,25 @@
+.cal{
+    
+    text-align: center;
+    border: 5px solid peru;
+    border-style: bold;
+    width: 900px;
+    font-family: fantasy;
+    color: peru;
+    margin: 0 auto;
+    background-image: url("gjqdre.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.button{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 36px;
+}
+body{
+    background-image: url("52094.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
